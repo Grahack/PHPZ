@@ -1,7 +1,7 @@
 PHPz
 ====
 
-PHPz brings the power power and expressiveness of functional programming to
+PHPz brings the power and expressiveness of functional programming to
 the PHP masses. It is heavily inspired from scalaz, which also brings
 functional constructs to an otherwise imperative language.
 
